@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoang-debug
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Typescript, Java
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on supportive team
 - 📫 How to reach me campus199@gmail.com
 
